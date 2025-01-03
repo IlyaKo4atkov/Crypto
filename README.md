@@ -1,1 +1,1 @@
-# -rypto
+# Cryptocurrency Market Analysis
